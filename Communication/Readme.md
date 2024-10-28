@@ -1,5 +1,6 @@
 # Automatic Modulation Classification under Blind Scenario
 
+
 ## 🌟 Unique Contribution
 First work to classify CPFSK and GFSK alongside analog modulation in a blind scenario, achieving 99.6% accuracy using a novel feature fusion approach.
 
@@ -29,12 +30,17 @@ The challenge lies in correctly classifying modulation schemes under complex cha
 - Phase-frequency offset
 - Rician multipath
 
+<img src="images/Signals.png" width="400">
+
+
 ## 🔬 Methodology
+
+<img src="images/Block Diagram.png" width="400">
 
 ### 1. Feature Extraction
 **Signal Features:**
 - Statistical domain features
-- Spectral domain features
+- Spectral-domain features
 - Magnitude and angle features
 - Total signal features: 102
 
@@ -69,6 +75,7 @@ The challenge lies in correctly classifying modulation schemes under complex cha
   DSB-AM: 1000/1000 (100%)
   GFSK:    996/1000 (99.6%)
   ```
+<img src="images/Results.png" width="400">
 
 ### Cross-Validation Results
 Consistent 99.6% accuracy across different fold configurations:
