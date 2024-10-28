@@ -21,9 +21,6 @@ Coronary Artery Disease (CAD) is a leading cause of adult mortality and morbidit
 
 ## 🔬 Methodology
 <img src="images/Block Diagram.png" width="600">
-![Image Title](images/Block Diagram.png)
-'Block Diagram of the proposed solution'
-
 
 ### 1. Data Acquisition
 - Single channel Bitalino with three electrodes
@@ -32,8 +29,6 @@ Coronary Artery Disease (CAD) is a leading cause of adult mortality and morbidit
   - One electrode on right elbow
 
 <img src="images/Raw Signals.png" width="600">
-![Image Title](images/Raw Signals.png)
-'Raw Signals for each class'
 
 ### 2. Preprocessing
 - Empirical Mode Decomposition (EMD)
@@ -41,8 +36,7 @@ Coronary Artery Disease (CAD) is a leading cause of adult mortality and morbidit
 - Removal of noise and motion artifacts
 
 <img src="images/EMD.png" width="600">
-![Image Title](images/EMD.png)
-'Imf's of a signal'
+
 
 
 ### 3. Feature Extraction
@@ -70,10 +64,9 @@ Selected features:
 
 ## 📈 Results
 - Overall Accuracy: 95.5% using Cubic SVM
-- 
+
 <img src="images/Confusion Matrix.png" width="600">
-![Image Title](images/Confusion Matrix.png)
-'Confusion Matrix'
+
 
 - Comparative Analysis:
   - Cubic SVM: 95.6%
@@ -82,8 +75,7 @@ Selected features:
   - Weighted KNN: 93.0%
  
   <img src="images/Classifiers result comparision.png" width="600">
-![Image Title](images/Classifiers result comparision.png)
-'Classifier Comparision'
+
 
 
 ## 🔗 Publication
