@@ -26,7 +26,7 @@ Welcome to my Machine Learning research hub! This repository showcases my resear
 
 ## 📚 Publications
 
-### Healthcare
+### Classification of Coronary Artery Diseases using Electrocardiogram Signals
 ```bibtex
 @inproceedings{khan2020classification,
   title={Classification of coronary artery diseases using electrocardiogram signals},
@@ -38,7 +38,7 @@ Welcome to my Machine Learning research hub! This repository showcases my resear
 }
 ```
 
-### Agriculture
+### Cucumber Leaf Disease Classification using Local Tri-directional Patterns and Haralick Features
 ```bibtex
 @INPROCEEDINGS{9445237,
   author={Rehman, Abdul and Tariq, Zain and din Memon, Shoaib ul and Zaib, Ahmed and Khan, Muhammad Umar and Aziz, Sumair},
@@ -52,7 +52,7 @@ Welcome to my Machine Learning research hub! This repository showcases my resear
   doi={10.1109/ICAI52203.2021.9445237}}
 ```
 
-### Communications
+### Automatic Classification of Modulation Schemes under Blind Scenario
 ```bibtex
 @INPROCEEDINGS{9445234,
   author={Tariq, Zain and Rehman, Abdul and Aslam, Taimoor and Khan, Muhammad Umar and Aziz, Sumair and Naqvi, Syed Zohaib Hassan},
