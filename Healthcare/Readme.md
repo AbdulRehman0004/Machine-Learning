@@ -35,7 +35,7 @@ Coronary Artery Disease (CAD) is a leading cause of adult mortality and morbidit
 - Selected IMFs 2-5 for analysis
 - Removal of noise and motion artifacts
 
-<img src="images/EMD.png" width="600">
+<img src="images/EMD.png" width="400">
 
 
 
