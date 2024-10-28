@@ -77,7 +77,7 @@ Interested in collaboration? We welcome:
 
 Connect with us:
 - [LinkedIn](https://www.linkedin.com/in/abdul-rehman-204ba41ab)
-- [Email]abdulrehmansarwar04@outlook.com
+- [Email] (abdulrehmansarwar04@outlook.com)
 
 
 ## 📅 Updates
