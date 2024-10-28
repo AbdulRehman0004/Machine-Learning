@@ -28,17 +28,43 @@ Welcome to my Machine Learning research hub! This repository showcases my resear
 
 ### Healthcare
 ```bibtex
-[Citation for Coronary Artery Disease paper]
+@inproceedings{khan2020classification,
+  title={Classification of coronary artery diseases using electrocardiogram signals},
+  author={Khan, Muhammad Umar and Aziz, Sumair and Naqvi, Syed Zohaib Hassan and Rehman, Abdul},
+  booktitle={2020 International Conference on Emerging Trends in Smart Technologies (ICETST)},
+  pages={1--5},
+  year={2020},
+  organization={IEEE}
+}
 ```
 
 ### Agriculture
 ```bibtex
-[Citation for Cucumber Leaf Disease paper]
+@INPROCEEDINGS{9445237,
+  author={Rehman, Abdul and Tariq, Zain and din Memon, Shoaib ul and Zaib, Ahmed and Khan, Muhammad Umar and Aziz, Sumair},
+  booktitle={2021 International Conference on Artificial Intelligence (ICAI)}, 
+  title={Cucumber Leaf Disease Classification using Local Tri-directional Patterns and Haralick Features}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={258-263},
+  keywords={Support vector machines;Industries;Image color analysis;Production;Feature extraction;Cameras;Real-time systems;Local tri-directional patterns;Cucumber Disease identification;Anthracnose;Aphids;CYSDV;Haralick Features;Quadratic SVM},
+  doi={10.1109/ICAI52203.2021.9445237}}
 ```
 
 ### Communications
 ```bibtex
-[Citation for Modulation Classification paper]
+@INPROCEEDINGS{9445234,
+  author={Tariq, Zain and Rehman, Abdul and Aslam, Taimoor and Khan, Muhammad Umar and Aziz, Sumair and Naqvi, Syed Zohaib Hassan},
+  booktitle={2021 International Conference on Artificial Intelligence (ICAI)}, 
+  title={Automatic Classification of Modulation Schemes under Blind Scenario}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={203-208},
+  keywords={Support vector machines;Modulation;Receivers;Feature extraction;Acoustics;Real-time systems;Reliability;Modulation;Feature fusion;ANOVA;Feature Reduction;Linear SVM},
+  doi={10.1109/ICAI52203.2021.9445234}}
+
 ```
 
 ## 🤝 Collaboration
