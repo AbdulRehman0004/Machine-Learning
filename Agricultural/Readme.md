@@ -5,11 +5,6 @@
 - **Unique Contribution**: First work to combine Local Tri-directional Patterns (LTriDP) and Haralick features for robust cucumber disease classification in real-world farming conditions
 - **Achievement**: 96.80% accuracy in noisy, real-world conditions
 
-# Cucumber Leaf Disease Classification using LTriDP and Haralick Features
-
-## 🌟 Unique Contribution
-Novel approach combining Local Tri-directional Patterns (LTriDP) and Haralick features for robust cucumber disease classification in real-world farming conditions, achieving 96.80% accuracy.
-
 ## 🔍 Problem Statement
 Plant diseases cause major economic and production losses in agriculture worldwide. In Pakistan:
 - 3,426 hectares used for cucumber cultivation
