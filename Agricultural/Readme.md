@@ -28,8 +28,12 @@ Early and accurate disease detection is crucial for:
   - Aphids: 223 samples
   - CYSDV: 178 samples
   - Healthy: 123 samples
+  - 
+<img src="images/Raw Images.png" width="400">
 
 ## 🔬 Methodology
+
+<img src="images/Block Diagram.png" width="400">
 
 ### 1. Preprocessing
 - RGB to LAB color space conversion
@@ -67,6 +71,8 @@ Early and accurate disease detection is crucial for:
 - Validation: 10-fold cross-validation
 - System Requirements: Intel Core i7 @ 2.7 GHz CPU, 8GB RAM
 
+<img src="images/Classifier Comparision.png" width="400">
+
 ## 📈 Results
 
 ### Performance Metrics
@@ -76,6 +82,9 @@ Early and accurate disease detection is crucial for:
   - HOG + Haralick: 91.39%
   - LTriDP + HOG: 92.72%
   - LTriDP + HOG + Haralick: 92.94%
+
+<img src="images/Confusion Matrix.png" width="400">
+
 
 ### Class-wise Performance
 - Healthy: 89% True Positive Rate
@@ -105,8 +114,6 @@ Our method outperforms existing approaches:
 ## 📚 Publication
 ```bibtex
 A. Rehman, Z. Tariq, S. u. din Memon, A. Zaib, M. U. Khan and S. Aziz, "Cucumber Leaf Disease Classification using Local Tri-directional Patterns and Haralick Features," 2021 International Conference on Artificial Intelligence (ICAI), Islamabad, Pakistan, 2021, pp. 258-263, doi: 10.1109/ICAI52203.2021.9445237. keywords: {Support vector machines;Industries;Image color analysis;Production;Feature extraction;Cameras;Real-time systems;Local tri-directional patterns;Cucumber Disease identification;Anthracnose;Aphids;CYSDV;Haralick Features;Quadratic SVM},
-
-
 ```
 
 ---
