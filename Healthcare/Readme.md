@@ -20,7 +20,7 @@ Coronary Artery Disease (CAD) is a leading cause of adult mortality and morbidit
     - TVCAD: 115 subjects
 
 ## 🔬 Methodology
-<img src="images/Block Diagram.png" width="400">
+<p align="center"><img src="images/Block Diagram.png" width="400">
 
 ### 1. Data Acquisition
 - Single channel Bitalino with three electrodes
