@@ -29,11 +29,11 @@ Early and accurate disease detection is crucial for:
   - CYSDV: 178 samples
   - Healthy: 123 samples
   - 
-<img src="images/Raw Images.png" width="400">
+<p align="center"><img src="images/Raw Images.png" width="600">
 
 ## 🔬 Methodology
 
-<img src="images/Block Diagram.png" width="400">
+<p align="center"><img src="images/Block Diagram.png" width="600">
 
 ### 1. Preprocessing
 - RGB to LAB color space conversion
@@ -71,7 +71,7 @@ Early and accurate disease detection is crucial for:
 - Validation: 10-fold cross-validation
 - System Requirements: Intel Core i7 @ 2.7 GHz CPU, 8GB RAM
 
-<img src="images/Classifier Comparision.png" width="400">
+<p align="center"><img src="images/Classifier Comparision.png" width="600">
 
 ## 📈 Results
 
@@ -83,7 +83,7 @@ Early and accurate disease detection is crucial for:
   - LTriDP + HOG: 92.72%
   - LTriDP + HOG + Haralick: 92.94%
 
-<img src="images/Confusion Matrix.png" width="400">
+<p align="center"><img src="images/Confusion Matrix.png" width="600">
 
 
 ### Class-wise Performance
