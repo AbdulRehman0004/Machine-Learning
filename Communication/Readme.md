@@ -30,12 +30,12 @@ The challenge lies in correctly classifying modulation schemes under complex cha
 - Phase-frequency offset
 - Rician multipath
 
-<img src="images/Signals.png" width="400">
+<p align="center"><img src="images/Signals.png" width="600">
 
 
 ## 🔬 Methodology
 
-<img src="images/Block Diagram.png" width="400">
+<p align="center"><img src="images/Block Diagram.png" width="600">
 
 ### 1. Feature Extraction
 **Signal Features:**
@@ -75,7 +75,7 @@ The challenge lies in correctly classifying modulation schemes under complex cha
   DSB-AM: 1000/1000 (100%)
   GFSK:    996/1000 (99.6%)
   ```
-<img src="images/Results.png" width="400">
+<p align="center"><img src="images/Results.png" width="600">
 
 ### Cross-Validation Results
 Consistent 99.6% accuracy across different fold configurations:
